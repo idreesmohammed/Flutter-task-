@@ -1,0 +1,42 @@
+class ConstantVariables {
+  static const String userName = "User Name";
+  static const String assignUser = "Assign User";
+  static const String confirm = "Confirm";
+  static const String cancel = "Cancel";
+  static const String getLocation = "Get Location";
+  static const String notAssigned = "Project Name- Not assigned";
+  static const String notAssignedCompany = "Company Details- Not assigned";
+  static const String notAssignedWebsite = "Company Website- Not assigned";
+  static const String notAssignedLocation = "Location- Not assigned";
+  static const String locationError = "Not Assigned";
+  static const String alert = "Alert";
+  static const String loginSuccess = "Login Successful";
+  static const String password = "Password";
+  static const String login = "Login";
+  static const String submit = "Submit";
+  static const bool radioButton = false;
+  static const String createUser = "Create User";
+  static const String createProject = "Create Project";
+  static const String dateOfBirth = "Date of Birth: dd/mm/yyyy";
+  static const String projectDate = "dd/mm/yyyy";
+  static const String errorMessage = "Please select any one";
+  static const String userAlreadyAdded = "Username Already exists";
+  static const String userAddedSuccessfully = "User Added successfully!";
+  static const String projectName = "Project Name";
+  // static const String projectDate = "Project Date";
+  static const String companyDetails = "Company Details(Name, Catch Phrase)";
+  static const String invalid = "Invalid input";
+  static const String website = "Website";
+  static const String createProjectError = "Input fields are empty";
+  static const String createdSuccessfully = "Created Successfully";
+  static const String location = "Location";
+  static const String assignsUser = "Assigns User";
+  static const String myBio = "My Bio";
+  static const String myProject = "My Project";
+  static const String locationWithMapView = "Location with Map view";
+  // static const String adminId = "123";
+  // static const String adminPassword = "123";
+
+  static const String adminId = "Admin@Kssmart.co";
+  static const String adminPassword = "123456";
+}
